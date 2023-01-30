@@ -1,0 +1,15 @@
+/Users/aleksander/Desktop/home work/home/bin/Debug/net6.0/home
+/Users/aleksander/Desktop/home work/home/bin/Debug/net6.0/home.deps.json
+/Users/aleksander/Desktop/home work/home/bin/Debug/net6.0/home.runtimeconfig.json
+/Users/aleksander/Desktop/home work/home/bin/Debug/net6.0/home.dll
+/Users/aleksander/Desktop/home work/home/bin/Debug/net6.0/home.pdb
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/home.csproj.AssemblyReference.cache
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/home.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/home.AssemblyInfoInputs.cache
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/home.AssemblyInfo.cs
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/home.csproj.CoreCompileInputs.cache
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/home.dll
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/refint/home.dll
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/home.pdb
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/home.genruntimeconfig.cache
+/Users/aleksander/Desktop/home work/home/obj/Debug/net6.0/ref/home.dll
