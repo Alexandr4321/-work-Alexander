@@ -73,6 +73,7 @@ while(current_num > 0)
     if(current_num%2 == 0)
     {
      count = count + 1;
+     Console.Write(current_num+ " ");
      current_num = current_num - 1;
     }
     else
@@ -80,6 +81,6 @@ while(current_num > 0)
     current_num = current_num - 1;
     }
 }
- Console.Write($"четных чисел {count} "); 
+ Console.Write("  - четные числа числа N "); 
 
 
