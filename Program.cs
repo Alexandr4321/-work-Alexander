@@ -61,3 +61,25 @@ else
    Console.Write($"число {number} не четное");
 }
 */
+
+Console.Write( "Введите число N : ");
+int numberA = Convert.ToInt32(Console.ReadLine());
+
+int current_num = numberA;
+int count = 0;
+
+while(current_num > 0)
+{
+    if(current_num%2 == 0)
+    {
+     count = count + 1;
+     current_num = current_num - 1;
+    }
+    else
+    {
+    current_num = current_num - 1;
+    }
+}
+ Console.Write($"четных чисел {count} "); 
+
+
