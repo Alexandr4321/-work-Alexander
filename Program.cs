@@ -48,3 +48,16 @@ if(max < numberC)
 }
 Console.WriteLine($"Самое большое число : {max}");
 */
+/*
+Console.Write( "Введите число : ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+if(number%2 == 0)
+
+   Console.Write($"число {number} четное");
+
+else
+{
+   Console.Write($"число {number} не четное");
+}
+*/
